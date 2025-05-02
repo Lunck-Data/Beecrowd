@@ -1,4 +1,5 @@
-I = 2.0
+lista = ["1", "2", "3"]
 
-print(I)
-print(I % 1)
+listaNova = " ".join(lista)
+
+print(listaNova)
