@@ -1,5 +1,4 @@
-lista = ["1", "2", "3"]
+valor = int(input())
 
-listaNova = " ".join(lista)
-
-print(listaNova)
+for i in range(1, (valor+1)):
+    print(i)
