@@ -1,4 +1,3 @@
-valor = int(input())
+x = 6 % 4
 
-for i in range(1, (valor+1)):
-    print(i)
+print(x)
