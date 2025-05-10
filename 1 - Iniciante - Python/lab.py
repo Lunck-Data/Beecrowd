@@ -1,3 +1,2 @@
-x = 4 % 2
-
-print(x)
+for i in range(0, 20):
+    print(i)
